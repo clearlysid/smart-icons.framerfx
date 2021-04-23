@@ -1,0 +1,20 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "0b5768ab-2775-4571-b8af-16ae60ab0233"
+	},
+	"author": "Siddharth Jha",
+	"dependencies": {
+		"@framer/framer.default": "^1.106.0",
+		"html-react-parser": "^1.2.6",
+		"styled-components": "^5.2.3"
+	}
+}
