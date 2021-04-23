@@ -9,12 +9,15 @@
 		"react": "^16.8"
 	},
 	"framer": {
-		"id": "0b5768ab-2775-4571-b8af-16ae60ab0233"
+		"id": "0b5768ab-2775-4571-b8af-16ae60ab0233",
+		"displayName": "Smart Icons"
 	},
 	"author": "Siddharth Jha",
 	"dependencies": {
 		"@framer/framer.default": "^1.106.0",
 		"html-react-parser": "^1.2.6",
 		"styled-components": "^5.2.3"
-	}
+	},
+	"name": "@framer/fqptdsbg.smart-icons",
+	"version": "1.0.0"
 }
